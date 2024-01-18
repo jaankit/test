@@ -1,3 +1,9 @@
 [submodule "submodule/sub"]
 	path = submodule/sub
 	url = https://github.com/jaankit/subtest
+[submodule "SPECS/linux"]
+	path = SPECS/linux
+	url = https://github.com/jaankit/subtest.git
+	branch = 6.0
+[submodule "subtest"]
+	branch = 6.0
